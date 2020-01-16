@@ -1,0 +1,2 @@
+# webclub
+Static website example
